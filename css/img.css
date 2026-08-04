@@ -1,0 +1,68 @@
+img{     
+    /* 统一图片大小 */
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;height: auto;
+    position: relative;
+    left: auto;
+    /* top: 100px; */
+}
+
+.imgpai img{
+    /* 设置图片位置和间隔 */
+    width: 300px;
+    height: 400px;
+    /* top: 150px; */
+    
+}
+.imgpai
+{
+  max-width: 1500px;
+  margin: 20px auto;
+  columns: 3;
+  column-gap: 20px;
+  position: relative;
+    top: 100px;
+}
+
+.imgpai .box{
+    width: 100%;
+    /* margin-bottom: 20px; */
+    break-inside: avoid;
+}
+
+.imgpai .box img{
+    max-width: 100%;
+    border-radius: 15px;
+}
+
+
+.imgpai1 img{
+    /* 设置图片位置和间隔 */
+    width: 300px;
+    height: 400px;
+    /* top: 100px; */
+}
+
+.imgpai1
+{
+    max-width: 1500px;
+    margin: 20px auto;
+    columns: 3;
+    column-gap: 20px;
+    position: relative;
+    top: 150px;
+}
+
+
+.imgpai1 .box{
+    width: 100%;
+    /* margin-bottom: 20px; */
+    break-inside: avoid;
+}
+
+.imgpai1 .box img{
+    max-width: 100%;
+    border-radius: 15px;
+}
+
