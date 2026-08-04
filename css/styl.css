@@ -7,7 +7,7 @@
 
 ::-webkit-scrollbar {
     width: 5px;
-    /* height: 5px; */
+    height: 5px;
     background-color: #F5F5F5;
 }
 
@@ -38,10 +38,10 @@ a{
   }
 
   body{
-
+    /* font-size: 18px; */
     color: #6c767d;
     background-color: #ebf1f5;
-    background-image: url(../biejing/87945109_p0.jpg);
+    background-image: url(https://s2.loli.net/2023/10/15/kNFzuIQSUdGi8qc.png);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -50,33 +50,7 @@ a{
 
   }
 
-  .jian{
-    position: relative;
-    top: 150px;
-    margin: 20px auto;
-    max-width: 900px;
-  }
-
-
-  .tu{
-    max-width: 900px;
-    margin: 20px auto;
-    column-gap: 20px;
-    position: relative;
-    top: 150px;
-}
   
-.annv{
-    margin-top: 200px;
-    max-width: 900px;
-    margin: 222px auto;
-    columns: 1;
-    
-}
-
-.jiaju{
-    font-size: 15px;
-}
 
  .juie{
     width: 600;
