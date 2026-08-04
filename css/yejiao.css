@@ -1,0 +1,21 @@
+.yejiao{
+    text-align: center;
+}
+
+article {
+    min-height: 20%;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top: 240px;
+  }
+  
+  footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
